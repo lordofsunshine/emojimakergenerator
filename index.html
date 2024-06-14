@@ -16,8 +16,8 @@
   <div style="text-align:center;margin:0px;padding:0px;">
     <h1>Emoji Maker</h1>
   </div>
-  <input type="file" name="image" id="image"><div id="spinner"></div>
-  <a href="#" onclick="downloadIt()">Download Image</a>
+  <div class="object"><input type="file" name="image" id="image"><div id="spinner"></div></div>
+  <div class="settings">
   <div class="container"><label for="pSize">Analysis Window <span style="font-size:70%">(smaller window=higher resolution, slower)</span>:</label><input type="range" step="1" min="1" max="50" value="7" id="pSize">
   </div>
   
@@ -54,11 +54,11 @@
   <div class="container">
     <label for="hideBlack">Hide Black/Transparent</label><input type="checkbox" id="hideBlack">
   </div>
-  
+     </div>
 </div>
 
-<canvas id="result"></canvas>
+<canvas class="canvas" id="result"></canvas>
 
-<footer>By GirlOrBoy.</footer>
+<a class="button" href="#" onclick="downloadIt()">Download Image</a>
   </body>
 </html>
