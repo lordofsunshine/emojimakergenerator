@@ -1,16 +1,7 @@
 # 🎨 Emoji Maker Generator
 
-<p align="center">
-  <img src="https://cdn.glitch.global/a2b50095-8314-4c25-87ec-f329e288b61f/1?v=1718369334889" alt="Emoji Maker Generator Preview" width="800">
-</p>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#demo">Live Demo</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#how-it-works">How It Works</a> •
-  <a href="#technologies">Technologies</a> •
-  <a href="#license">License</a>
+<p>
+  <img src="https://i.ibb.co/D6xtmkF/image.png" width="400" alt="Emoji Maker Generator Preview" width="800">
 </p>
 
 ## 🚀 Overview
